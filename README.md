@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software engineering
 - 📫 How to reach me kalaisudarsan8@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Taking everything funny
+- ⚡ Fun fact: life is fun
 
 <!---
 Sudarsan-DS/Sudarsan-DS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
